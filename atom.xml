@@ -6,7 +6,7 @@
   <link href="https://imensx.github.io/atom.xml" rel="self"/>
   
   <link href="https://imensx.github.io/"/>
-  <updated>2022-05-15T01:05:58.512Z</updated>
+  <updated>2022-11-04T08:12:51.128Z</updated>
   <id>https://imensx.github.io/</id>
   
   <author>
@@ -15,6 +15,89 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="https://imensx.github.io/2022/11/04/%E7%B1%BB%E4%B8%8E%E6%96%B9%E6%B3%95/"/>
+    <id>https://imensx.github.io/2022/11/04/%E7%B1%BB%E4%B8%8E%E6%96%B9%E6%B3%95/</id>
+    <published>2022-11-04T08:12:51.128Z</published>
+    <updated>2022-11-04T08:12:51.128Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="https://imensx.github.io/2022/11/02/Python%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F/"/>
+    <id>https://imensx.github.io/2022/11/02/Python%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F/</id>
+    <published>2022-11-02T11:59:30.279Z</published>
+    <updated>2022-11-02T12:58:50.865Z</updated>
+    
+    <content type="html"><![CDATA[<p>​    正则表达式（Regular Expression，常简写为regex或者RE），又称规则表达式，它不是某个编程语言所特有的，是计算机科学的一个概念，通常被用来检索和替换符合某些规则的文本。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;​    正则表达式（Regular Expression，常简写为regex或者RE），又称规则表达式，它不是某个编程语言所特有的，是计算机科学的一个概念，通常被用来检索和替换符合某些规则的文本。&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="https://imensx.github.io/2022/10/31/%E5%88%97%E8%A1%A8%E4%B8%8E%E5%85%83%E7%BB%84/"/>
+    <id>https://imensx.github.io/2022/10/31/%E5%88%97%E8%A1%A8%E4%B8%8E%E5%85%83%E7%BB%84/</id>
+    <published>2022-10-31T09:44:25.334Z</published>
+    <updated>2022-10-31T10:18:21.818Z</updated>
+    
+    <content type="html"><![CDATA[<p>五、列表与元组</p><ul><li><p>在Python中，序列是最基本的数据结构。它是一块用于存放多个值的连续内存空间。Python中内置了5个常用的序列结构，分别是列表、元组、集合、字典和字符串。</p></li><li><p>索引：序列中的每个元素都有一个编号，也称为索引（Indexing）。</p></li><li><p>切片：切片（sliceing）操作是访问序列中元素的另一种方法，它可以访问一定范围内的元素。</p></li><li><p>序列相加：即将两个序列进行连接，不会去除重复的元素，使用加（+）运算符实现。</p></li><li><p>乘法：在Python中，使用数字n乘以一个序列会生成新的序列。新序列的内容为原来序列被重复n次的结果。</p></li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;五、列表与元组&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;在Python中，序列是最基本的数据结构。它是一块用于存放多个值的连续内存空间。Python中内置了5个常用的序列结构，分别是列表、元组、集合、字典和字符串。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;索引：序列中的每个元素都有一个编</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="https://imensx.github.io/2022/10/30/%E5%BE%AA%E7%8E%AF%E8%AF%AD%E5%8F%A5/"/>
+    <id>https://imensx.github.io/2022/10/30/%E5%BE%AA%E7%8E%AF%E8%AF%AD%E5%8F%A5/</id>
+    <published>2022-10-30T12:08:44.045Z</published>
+    <updated>2022-10-31T09:39:23.524Z</updated>
+    
+    <content type="html"><![CDATA[<p>一、循环语句</p><ul><li><p>while循环</p><p>while 条件表达式：（条件表达式为真时，执行循环体，直到表达式结果为假时退出循环）</p><p>​    循环体</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">print</span>(<span class="string">&quot;今有物不知其数，三三数之剩二，五五之数剩三,七七之数剩二，问几何？\n&quot;</span>)</span><br><span class="line">none = <span class="literal">True</span></span><br><span class="line">number = <span class="number">0</span></span><br><span class="line"><span class="keyword">while</span> none:</span><br><span class="line">number += <span class="number">1</span></span><br><span class="line"><span class="keyword">if</span> number%<span class="number">3</span> == <span class="number">2</span> <span class="keyword">and</span> number%<span class="number">5</span> ==<span class="number">3</span> <span class="keyword">and</span> number%<span class="number">7</span> == <span class="number">2</span>:</span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;答曰：这个数是&quot;</span>,number)</span><br><span class="line">none = <span class="literal">False</span></span><br></pre></td></tr></table></figure></li><li><p>for循环</p><p>计次循环，一般应用在循环次数已知的情况下。通常用于枚举或者遍历序列。</p><p>for 迭代变量 in 对象：</p><p>​    循环体</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">for</span> i <span class="keyword">in</span> <span class="built_in">range</span>(<span class="number">1</span>,<span class="number">10</span>):</span><br><span class="line">    <span class="keyword">for</span> j <span class="keyword">in</span> <span class="built_in">range</span>(<span class="number">1</span>,i+<span class="number">1</span>):</span><br><span class="line">        <span class="built_in">print</span>(<span class="built_in">str</span>(j)+<span class="string">&quot;×&quot;</span>+<span class="built_in">str</span>(i)+<span class="string">&quot;=&quot;</span>+<span class="built_in">str</span>(i*j),end=<span class="string">&quot;\t&quot;</span>)</span><br><span class="line">    <span class="built_in">print</span>(end=<span class="string">&#x27;\n&#x27;</span>)</span><br><span class="line"><span class="comment">#九九乘法表break、continue和pass语句</span></span><br></pre></td></tr></table></figure></li></ul><ul><li><p>break、continue和pass语句</p><p>循环满足条件时会一直执行下去，如果希望在中间离开循环，有两种方法可以做到：</p><p>– 使用continue语句直接跳到循环的下一次迭代；</p><p>– 使用break完全中止循环。</p></li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;一、循环语句&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;while循环&lt;/p&gt;
+&lt;p&gt;while 条件表达式：（条件表达式为真时，执行循环体，直到表达式结果为假时退出循环）&lt;/p&gt;
+&lt;p&gt;​    循环体&lt;/p&gt;
+&lt;figure class=&quot;highlight python&quot;&gt;&lt;t</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>被讨厌的勇气</title>
