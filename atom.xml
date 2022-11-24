@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-11-23T06:33:50.187Z</updated>
+  <updated>2022-11-24T14:01:40.869Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,15 +21,17 @@
     <link href="http://example.com/2022/11/23/%E5%BF%AB%E6%8D%B7%E9%94%AE/"/>
     <id>http://example.com/2022/11/23/%E5%BF%AB%E6%8D%B7%E9%94%AE/</id>
     <published>2022-11-23T06:33:50.186Z</published>
-    <updated>2022-11-23T06:33:50.187Z</updated>
+    <updated>2022-11-24T14:01:40.869Z</updated>
     
-    <content type="html"><![CDATA[<p>快捷键</p><p>shift+alt+鼠标点击 实现多行同时输入</p>]]></content>
+    <content type="html"><![CDATA[<hr><h2 id="快捷键"><a href="#快捷键" class="headerlink" title="快捷键"></a>快捷键</h2><ul><li>shift+alt+鼠标点击 实现多行同时输入</li></ul>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;快捷键&lt;/p&gt;
-&lt;p&gt;shift+alt+鼠标点击 实现多行同时输入&lt;/p&gt;
+    <summary type="html">&lt;hr&gt;
+&lt;h2 id=&quot;快捷键&quot;&gt;&lt;a href=&quot;#快捷键&quot; class=&quot;headerlink&quot; title=&quot;快捷键&quot;&gt;&lt;/a&gt;快捷键&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;shift+alt+鼠标点击 实现多行同时输入&lt;/li&gt;
+&lt;/ul&gt;
 </summary>
       
     
@@ -43,51 +45,14 @@
     <link href="http://example.com/2022/11/22/VPS%E5%AE%89%E8%A3%85V2Ray%E6%90%AD%E5%BB%BA+%E5%AE%A2%E6%88%B7%E7%AB%AF%E9%85%8D%E7%BD%AE%E6%95%99%E7%A8%8B/"/>
     <id>http://example.com/2022/11/22/VPS%E5%AE%89%E8%A3%85V2Ray%E6%90%AD%E5%BB%BA+%E5%AE%A2%E6%88%B7%E7%AB%AF%E9%85%8D%E7%BD%AE%E6%95%99%E7%A8%8B/</id>
     <published>2022-11-22T03:34:17.264Z</published>
-    <updated>2022-11-24T10:08:00.254Z</updated>
+    <updated>2022-11-24T14:05:18.291Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="VPS安装V2Ray搭建-客户端配置教程"><a href="#VPS安装V2Ray搭建-客户端配置教程" class="headerlink" title="VPS安装V2Ray搭建+客户端配置教程"></a>VPS安装V2Ray搭建+客户端配置教程</h1><h2 id="需要准备的东西：购买VPS-虚拟专用服务-→-安装V2ray-→-配置客户端；"><a href="#需要准备的东西：购买VPS-虚拟专用服务-→-安装V2ray-→-配置客户端；" class="headerlink" title="需要准备的东西：购买VPS(虚拟专用服务)  → 安装V2ray → 配置客户端；"></a>需要准备的东西：购买VPS(虚拟专用服务)  → 安装V2ray → 配置客户端；</h2><h3 id="VPS-服务"><a href="#VPS-服务" class="headerlink" title="VPS 服务"></a>VPS 服务</h3><ul><li>Vultr官网： <a href="https://www.vultr.com/zh/?lang=zh">https://www.vultr.com/zh/?lang=zh</a></li><li>搬瓦工官网： <a href="https://bwh88.net/">https://bwh88.net</a></li><li>印度VPS ：<a href="https://www.stromonic.com/">https://www.stromonic.com</a></li><li>主机推荐：<a href="https://maobuni.com/">https://maobuni.com</a></li></ul><p><strong>完成购买后拿到以下信息</strong></p><ul><li><p><strong>服务器信息</strong>：</p><p>Plan Name: ###<br>IP Address: ###<br>Password: ###<br>Server Name: ###</p><p><strong>SSH信息</strong>：</p><p>IP Address: ###<br>SSH Port: ###<br>Username: ###<br>Password: ###</p></li></ul>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h1 id=&quot;VPS安装V2Ray搭建-客户端配置教程&quot;&gt;&lt;a href=&quot;#VPS安装V2Ray搭建-客户端配置教程&quot; class=&quot;headerlink&quot; title=&quot;VPS安装V2Ray搭建+客户端配置教程&quot;&gt;&lt;/a&gt;VPS安装V2Ray搭建+客户端配置教程&lt;/h1&gt;&lt;</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title></title>
-    <link href="http://example.com/2022/11/04/%E7%B1%BB%E4%B8%8E%E6%96%B9%E6%B3%95/"/>
-    <id>http://example.com/2022/11/04/%E7%B1%BB%E4%B8%8E%E6%96%B9%E6%B3%95/</id>
-    <published>2022-11-04T08:12:51.128Z</published>
-    <updated>2022-11-04T08:12:51.128Z</updated>
-    
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title></title>
-    <link href="http://example.com/2022/10/31/%E5%88%97%E8%A1%A8%E4%B8%8E%E5%85%83%E7%BB%84/"/>
-    <id>http://example.com/2022/10/31/%E5%88%97%E8%A1%A8%E4%B8%8E%E5%85%83%E7%BB%84/</id>
-    <published>2022-10-31T09:44:25.334Z</published>
-    <updated>2022-10-31T10:18:21.818Z</updated>
-    
-    <content type="html"><![CDATA[<p>五、列表与元组</p><ul><li><p>在Python中，序列是最基本的数据结构。它是一块用于存放多个值的连续内存空间。Python中内置了5个常用的序列结构，分别是列表、元组、集合、字典和字符串。</p></li><li><p>索引：序列中的每个元素都有一个编号，也称为索引（Indexing）。</p></li><li><p>切片：切片（sliceing）操作是访问序列中元素的另一种方法，它可以访问一定范围内的元素。</p></li><li><p>序列相加：即将两个序列进行连接，不会去除重复的元素，使用加（+）运算符实现。</p></li><li><p>乘法：在Python中，使用数字n乘以一个序列会生成新的序列。新序列的内容为原来序列被重复n次的结果。</p></li></ul>]]></content>
+    <content type="html"><![CDATA[<h2 id="需要准备的东西：购买VPS-虚拟专用服务-→-安装V2ray-→-配置客户端；"><a href="#需要准备的东西：购买VPS-虚拟专用服务-→-安装V2ray-→-配置客户端；" class="headerlink" title="需要准备的东西：购买VPS(虚拟专用服务)  → 安装V2ray → 配置客户端；"></a>需要准备的东西：购买VPS(虚拟专用服务)  → 安装V2ray → 配置客户端；</h2><h3 id="VPS-服务"><a href="#VPS-服务" class="headerlink" title="VPS 服务"></a>VPS 服务</h3><ul><li>Vultr官网： <a href="https://www.vultr.com/zh/?lang=zh">https://www.vultr.com/zh/?lang=zh</a></li><li>搬瓦工官网： <a href="https://bwh88.net/">https://bwh88.net</a></li><li>印度VPS ：<a href="https://www.stromonic.com/">https://www.stromonic.com</a></li><li>主机推荐：<a href="https://maobuni.com/">https://maobuni.com</a></li></ul><p><strong>完成购买后拿到以下信息</strong></p><ul><li><p><strong>服务器信息</strong>：</p><p>Plan Name: ###<br>IP Address: ###<br>Password: ###<br>Server Name: ###</p><p><strong>SSH信息</strong>：</p><p>IP Address: ###<br>SSH Port: ###<br>Username: ###<br>Password: ###</p></li></ul>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;五、列表与元组&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;在Python中，序列是最基本的数据结构。它是一块用于存放多个值的连续内存空间。Python中内置了5个常用的序列结构，分别是列表、元组、集合、字典和字符串。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;索引：序列中的每个元素都有一个编</summary>
+    <summary type="html">&lt;h2 id=&quot;需要准备的东西：购买VPS-虚拟专用服务-→-安装V2ray-→-配置客户端；&quot;&gt;&lt;a href=&quot;#需要准备的东西：购买VPS-虚拟专用服务-→-安装V2ray-→-配置客户端；&quot; class=&quot;headerlink&quot; title=&quot;需要准备的东西：购买VPS(</summary>
       
     
     
@@ -96,23 +61,20 @@
   </entry>
   
   <entry>
-    <title></title>
-    <link href="http://example.com/2022/10/30/%E5%BE%AA%E7%8E%AF%E8%AF%AD%E5%8F%A5/"/>
-    <id>http://example.com/2022/10/30/%E5%BE%AA%E7%8E%AF%E8%AF%AD%E5%8F%A5/</id>
+    <title>Python</title>
+    <link href="http://example.com/2022/10/30/PYTHON/"/>
+    <id>http://example.com/2022/10/30/PYTHON/</id>
     <published>2022-10-30T12:08:44.045Z</published>
-    <updated>2022-10-31T09:39:23.524Z</updated>
+    <updated>2022-11-24T14:00:48.149Z</updated>
     
-    <content type="html"><![CDATA[<p>一、循环语句</p><ul><li><p>while循环</p><p>while 条件表达式：（条件表达式为真时，执行循环体，直到表达式结果为假时退出循环）</p><p>​    循环体</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">print</span>(<span class="string">&quot;今有物不知其数，三三数之剩二，五五之数剩三,七七之数剩二，问几何？\n&quot;</span>)</span><br><span class="line">none = <span class="literal">True</span></span><br><span class="line">number = <span class="number">0</span></span><br><span class="line"><span class="keyword">while</span> none:</span><br><span class="line">number += <span class="number">1</span></span><br><span class="line"><span class="keyword">if</span> number%<span class="number">3</span> == <span class="number">2</span> <span class="keyword">and</span> number%<span class="number">5</span> ==<span class="number">3</span> <span class="keyword">and</span> number%<span class="number">7</span> == <span class="number">2</span>:</span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;答曰：这个数是&quot;</span>,number)</span><br><span class="line">none = <span class="literal">False</span></span><br></pre></td></tr></table></figure></li><li><p>for循环</p><p>计次循环，一般应用在循环次数已知的情况下。通常用于枚举或者遍历序列。</p><p>for 迭代变量 in 对象：</p><p>​    循环体</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">for</span> i <span class="keyword">in</span> <span class="built_in">range</span>(<span class="number">1</span>,<span class="number">10</span>):</span><br><span class="line">    <span class="keyword">for</span> j <span class="keyword">in</span> <span class="built_in">range</span>(<span class="number">1</span>,i+<span class="number">1</span>):</span><br><span class="line">        <span class="built_in">print</span>(<span class="built_in">str</span>(j)+<span class="string">&quot;×&quot;</span>+<span class="built_in">str</span>(i)+<span class="string">&quot;=&quot;</span>+<span class="built_in">str</span>(i*j),end=<span class="string">&quot;\t&quot;</span>)</span><br><span class="line">    <span class="built_in">print</span>(end=<span class="string">&#x27;\n&#x27;</span>)</span><br><span class="line"><span class="comment">#九九乘法表break、continue和pass语句</span></span><br></pre></td></tr></table></figure></li></ul><ul><li><p>break、continue和pass语句</p><p>循环满足条件时会一直执行下去，如果希望在中间离开循环，有两种方法可以做到：</p><p>– 使用continue语句直接跳到循环的下一次迭代；</p><p>– 使用break完全中止循环。</p></li></ul>]]></content>
+    <content type="html"><![CDATA[<p>一、循环语句</p><ul><li>while循环<br>while 条件表达式：（条件表达式为真时，执行循环体，直到表达式结果为假时退出循环）<br>​    循环体<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">print</span>(<span class="string">&quot;今有物不知其数，三三数之剩二，五五之数剩三,七七之数剩二，问几何？\n&quot;</span>)</span><br><span class="line">none = <span class="literal">True</span></span><br><span class="line">number = <span class="number">0</span></span><br><span class="line"><span class="keyword">while</span> none:</span><br><span class="line">number += <span class="number">1</span></span><br><span class="line"><span class="keyword">if</span> number%<span class="number">3</span> == <span class="number">2</span> <span class="keyword">and</span> number%<span class="number">5</span> ==<span class="number">3</span> <span class="keyword">and</span> number%<span class="number">7</span> == <span class="number">2</span>:</span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;答曰：这个数是&quot;</span>,number)</span><br><span class="line">none = <span class="literal">False</span></span><br></pre></td></tr></table></figure></li><li>for循环<br>计次循环，一般应用在循环次数已知的情况下。通常用于枚举或者遍历序列。<br>for 迭代变量 in 对象：<br>​    循环体<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">for</span> i <span class="keyword">in</span> <span class="built_in">range</span>(<span class="number">1</span>,<span class="number">10</span>):</span><br><span class="line">    <span class="keyword">for</span> j <span class="keyword">in</span> <span class="built_in">range</span>(<span class="number">1</span>,i+<span class="number">1</span>):</span><br><span class="line">        <span class="built_in">print</span>(<span class="built_in">str</span>(j)+<span class="string">&quot;×&quot;</span>+<span class="built_in">str</span>(i)+<span class="string">&quot;=&quot;</span>+<span class="built_in">str</span>(i*j),end=<span class="string">&quot;\t&quot;</span>)</span><br><span class="line">    <span class="built_in">print</span>(end=<span class="string">&#x27;\n&#x27;</span>)</span><br><span class="line"><span class="comment">#九九乘法表break、continue和pass语句</span></span><br></pre></td></tr></table></figure></li><li>break、continue和pass语句<br>循环满足条件时会一直执行下去，如果希望在中间离开循环，有两种方法可以做到：<br>– 使用continue语句直接跳到循环的下一次迭代；<br>– 使用break完全中止循环。</li></ul>]]></content>
     
     
       
       
     <summary type="html">&lt;p&gt;一、循环语句&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;while循环&lt;/p&gt;
-&lt;p&gt;while 条件表达式：（条件表达式为真时，执行循环体，直到表达式结果为假时退出循环）&lt;/p&gt;
-&lt;p&gt;​    循环体&lt;/p&gt;
-&lt;figure class=&quot;highlight python&quot;&gt;&lt;t</summary>
+&lt;li&gt;while循环&lt;br&gt;while 条件表达式：（条件表达式为真时，执行循环体，直到表达式结果为假时退出循环）&lt;br&gt;​    循环体&lt;figure class=&quot;highlight python&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td cla</summary>
       
     
     
@@ -121,11 +83,11 @@
   </entry>
   
   <entry>
-    <title>被讨厌的勇气</title>
-    <link href="http://example.com/2022/05/14/%E8%A2%AB%E8%AE%A8%E5%8E%8C%E7%9A%84%E5%8B%87%E6%B0%94/"/>
-    <id>http://example.com/2022/05/14/%E8%A2%AB%E8%AE%A8%E5%8E%8C%E7%9A%84%E5%8B%87%E6%B0%94/</id>
+    <title>阅读笔记</title>
+    <link href="http://example.com/2022/05/14/%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/"/>
+    <id>http://example.com/2022/05/14/%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/</id>
     <published>2022-05-14T00:07:58.325Z</published>
-    <updated>2022-05-15T01:05:58.512Z</updated>
+    <updated>2022-11-24T14:02:19.382Z</updated>
     
     <content type="html"><![CDATA[<ol start="0"><li><strong>否定原因论，推崇目的论</strong>。</li></ol><ul><li>如果我们一直依赖原因论，就会永远止步不前。纠结于过去发生的事情很可怕。时间一直往前，人一直往后看，从这个角度看，我们将一直活在过去发生的事情里，无法逃脱。</li><li>任何经历本身并不是成功或者失败的原因。我们并非因为自身经历中的刺激而痛苦，事实上我们会从经历中发现符合自己目的的因素。决定我们自身的不是过去的经历，而是我们赋予经历的意义。</li></ul><ol><li><strong>如何获得幸福？</strong></li></ol><ul><li>现在你感觉不到幸福，有时还会觉得活得很痛苦，甚至想要变成别人。但是，现在的你之所有不幸正是因为你自己亲手选择了。</li><li>你在人生的某个阶段选择了“不幸”。这既不是因为你生在了不幸的环境中，也不是因为你陷入了不幸的境地中，而是因为你认为“不幸”对你自身而言是一种“善”。</li><li>生活方式是自己主动选择的结果。想要改变生活方式需要很大的勇气，面对变化产生的“不安”与不变带来的“不满”，你一定选择了后者。</li><li>我们常常以各种借口而不愿改变，家庭环境、长相身高或者其它因素。其实不过是想通过这些“缺点”来保留一种“如果我拥有这些也可以成功”的可能性，即不愿被人评价，更不愿去面对尝试后可能会失败的现实。</li></ul><ol start="2"><li><strong>何为自卑情结？</strong></li></ol><ul><li>不愿意为了改变自我而牺牲目前所享受的乐趣——比如玩乐或休闲时间。也就是拿不出改变生活方式的“勇气”，即使有些不满或者不自由，也还是更愿意维持现状。</li><li>越自卑的人越自负，就是说那些津津乐道甚至是夸耀自己成长史中各种不幸的人。而且，即使别人想要去安慰或者帮助其改变，他们也会用“你无法了解我的心情”来推开援手。</li><li>以自己的不幸为武器来支配对方。通过诉说自己如何不幸、如何痛苦来让周围的人——比如家人或朋友——担心或束缚支配其言行。刚开始提到的那些闭门不出者就常常沉浸在以不幸为武器的优越感中。阿德勒甚至指出：“在我们的文化中，弱势其实非常强大而且具有特权。</li></ul><ol start="3"><li><strong>如何解开复杂的人际关系网络？</strong></li></ol><ul><li>人生的烦恼都来自人际关系。</li><li>人生的三大课题：交友课题、工作课题以及爱的课题</li><li>活在和别人比较之中，让许多取得了社会性成功的人，感觉不到幸福。</li><li>一旦从竞争的怪圈中解放出来，就再也没有必要战胜任何人，也许能够摆脱“或许会输”的恐惧心理了，变得能够真心祝福他人的幸福。</li><li>把自己的课题和别人分开来，某种选择所带来的结果由谁来承担来区分是自己的课题还是别人的课题。</li><li>获得幸福的勇气也包括“被讨厌的勇气”。一旦拥有了这种勇气，你的人际关系也会一下子变得轻松起来。</li><li>人际关系的终极目标就是找到自己位置，获得共同体感觉。</li><li>共同体并不局限于某一个地方，我们从一个小的共同体中被分离出来，还属于别的共同体。因为无论怎样，一切都属于地球这个共同体，属于宇宙这个共同体。当我们在人际关系中遇到困难或者看不到出口的时候，首先应该考虑的是”倾听更大共同体的声音“这一原则。</li><li>直面”人生课题“。也就是不回避工作、交友、爱之类的人际关系课题，要积极主动地去面对。</li></ul><ol start="4"><li><strong>如何获得勇气？</strong></li></ol><ul><li>提升个人价值。人只有体会到对共同体的时候才能感觉到自己的价值。</li><li>不将自己的孩子跟任何人相比，就把他看作他自己，对他的存在心怀喜悦与感激，不要按照理想形象去扣分，而是从零起点出发。如果是这样的话，那就能够对”存在“本身表示感谢了。</li><li>接纳自我是指做不到就诚实地接受这个“做不到的自己”，然后尽量朝着能够做到的方向去努力，不对自己撒谎。</li></ul><ol start="5"><li><strong>如何获得幸福？</strong></li></ol><ul><li>人生是一连串的刹那，我们只能活在“此时此刻”，我们的人生只存在于刹那之中。</li><li>假如人生是为了到达山顶的登山，那么人生的大半时光就都是在“路上”。也就是说，“真正的人生”始于登上山顶的时候，那之前的路程都是“临时的我”走过的“临时的人生”。</li><li>放下对过去的执念，享受当下拥有的一切，积极拥抱即将来到的明天。</li><li>工作的本质是对他人的贡献，幸福感来源于对他人的贡献。</li><li>为遥远的将来设定一个目标，并认为现在是其准备阶段。一直想着“真正想做的是这样的事情，等时机到了就去做”，是一种拖延人生的生活方式。</li><li>只要在拖延人生，我们就会无所进展，只能每天过着枯燥乏味的单调生活。因为在这种情况下，人就会认为“此时此刻”只是准备阶段和忍耐阶段。</li><li>德勒所说的“人生的意义是由你自己赋予自己的”，就正是这个意思。人生没有普遍性的意义。但是，你可以赋予这样的人生以意义，而能够赋予你的人生以意义的只有你自己。</li><li>我们要像跳舞一样认真过好作为刹那的“此时此刻”，既不看过去也不看未来，只需要过好每一个完结的刹那。没必要与谁竞争，也不需要目的地，只要跳着，就一定会到达某一个地方。</li></ul>]]></content>
     
@@ -146,8 +108,8 @@
   
   <entry>
     <title>Numpy基础数据结构</title>
-    <link href="http://example.com/2022/05/10/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90_Numpy/"/>
-    <id>http://example.com/2022/05/10/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90_Numpy/</id>
+    <link href="http://example.com/2022/05/10/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/"/>
+    <id>http://example.com/2022/05/10/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/</id>
     <published>2022-05-10T12:49:35.446Z</published>
     <updated>2022-05-17T08:40:37.100Z</updated>
     
@@ -165,11 +127,11 @@
   </entry>
   
   <entry>
-    <title>learning something about coding</title>
-    <link href="http://example.com/2021/09/12/hello-world/"/>
-    <id>http://example.com/2021/09/12/hello-world/</id>
+    <title>HEXO</title>
+    <link href="http://example.com/2021/09/12/HEXO/"/>
+    <id>http://example.com/2021/09/12/HEXO/</id>
     <published>2021-09-12T14:08:25.466Z</published>
-    <updated>2022-05-13T13:02:09.639Z</updated>
+    <updated>2022-11-24T14:02:48.761Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p><p>More please contact me</p>]]></content>
     
